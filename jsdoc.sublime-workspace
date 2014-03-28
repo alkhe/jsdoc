@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"retr",
+				"returnDoc"
+			],
+			[
+				"desc",
+				"descriptionDoc"
+			],
+			[
+				"retur",
+				"returnDoc"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"call",
+				"callHack"
+			],
+			[
+				"p",
+				"printallcharsloop"
+			],
+			[
+				"BOO",
+				"BOOTZERO"
+			],
+			[
+				"prin",
+				"printallchars"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"strin",
+				"stringout"
+			],
+			[
+				"stringout",
+				"stringoutloop"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"DW",
+				"DWORD"
+			],
+			[
+				"Byte",
+				"BYTE"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 540,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "jsdoc.js",
+			"settings":
+			{
+				"buffer_size": 355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "jsdoc.css",
+			"settings":
+			{
+				"buffer_size": 94,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"nasm",
+				"Set Syntax: Assembly x86 (NASM)"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"asm",
+				"Set Syntax: Assembly x86 (NASM)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"https://sublime.wbond.net/alpha/packages.json"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Documents/Projects/javatest/Javatest.java",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/heliumnasm.sublime-build",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Calydon.tmLanguage",
+		"/S/setup.ini",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/x86/Assembly x86.tmLanguage",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Assembly x86.sublime-settings",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/stdlib.asm",
+		"/C/Users/user/Documents/Aptana/Xeno/Testing/Glow/search.js",
+		"/C/Users/user/Documents/Aptana/Xeno/Testing/Glow/gloss.css",
+		"/C/Users/user/Documents/Aptana/Xeno/Testing/Glow/index.html",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/Jumping.asm",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/Signed.asm",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/Signed.rm",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Haskell.tmTheme",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/FrontEndDelight.tmTheme",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/FrontEndDelight/FrontEndDelight.tmTheme",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/NewDark/Haskell.tmTheme",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/NewDark/Sweyla989900.tmTheme",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/chasm.asm",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/main.asm",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/asmcompile.bat",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/heliumnasmhex.sublime-build",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/qemulate.bat",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/x86/Assembly x86.JSON-tmLanguage",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Software/Portable/Sublime Text 3/Data/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/D/Software/Portable/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/tahmidkarim/web8/index.html",
+		"/C/Users/tahmidkarim/web8/main.css",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/boot",
+		"/C/Users/user/Desktop/Xeno/OS/Helium/Helium/helium.sublime-project",
+		"/D/Software/Portable/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Software/Portable/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Software/Portable/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/tahmidkarim/Desktop/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\Products",
+			"ae",
+			"value",
+			"gloss",
+			"button",
+			"jns",
+			"2B91AF",
+			"6F7071",
+			"line",
+			"variable",
+			"4E36",
+			"4E",
+			"E36",
+			"4E36",
+			"047E85",
+			"41",
+			"416F49",
+			"2B3696",
+			"xml",
+			"2B3696",
+			"957",
+			"00707",
+			"keyworduser",
+			"keyword",
+			"auto",
+			"white",
+			"line",
+			"?>",
+			"xml",
+			"jcxz",
+			"jnl",
+			"em",
+			"emu",
+			"qemu",
+			"reso",
+			"define",
+			"phsubw",
+			"macro",
+			"byte",
+			"BYTE",
+			"%macro",
+			"rulers",
+			"eof",
+			"ensure",
+			"auto",
+			"009bdf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"S:\\Products",
+			"offset",
+			"glossy",
+			"gloss"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "jsdoc.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "jsdoc.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "jsdoc.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\user\\Documents\\Projects\\Hackme\\hackme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script type="text/javascript" src="jsdoc.min.js"></script>
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="jsdoc.min.css" />
+	</head>
+	<body class="consolas">
+		Simple Javadoc Generator
+		<br />
+		<br />
+		<div class="container">Description<br /><textarea id="description"></textarea></div>
+		<br />
+		<div class="container">Parameters<br /><textarea id="parameter"></textarea></div>
+		<br />
+		<div class="container">Return Value<br /><textarea id="return"></textarea></div>
+		<input type="checkbox" id="deprecated" value="Deprecated" \>Deprecated
+		<input type="checkbox" id="autoupdate" value="AutoUpdate" checked="checked" \>Auto Update
+		<button id="createDoc">Generate Javadoc</button>
+		<button id="changeFont">Change Font</button>
+		<button id="clearAll">Clear All</button>
+		<br />
+		<div class="container">Javadoc<br /><textarea id="javadoc"></textarea></div>
+	</body>
+</html>
